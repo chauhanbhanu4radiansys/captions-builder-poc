@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "67504b2a5e4a7a2a1f000004"
+    },
+    "accountId": "5c3e9fdb-1374-48fb-be77-7ba55f2279a2",
+    "segmentId": null,
+    "name": "Instagram Story",
+    "description": "Perfect for Instagram stories and reels",
+    "previewText": "Story time with smooth highlights",
+    "icon": null,
+    "masterTemplate": true,
+    "data": {
+        "id": "instagram-story",
+        "colors": [
+            "bg-gradient-to-br",
+            "from-purple-600",
+            "to-pink-600",
+            "via-red-500"
+        ],
+        "wordsLimit": 4,
+        "cueStyles": {
+            "fontSize": null,
+            "color": "#ffffff",
+            "backgroundColor": "rgba(0, 0, 0, 0.6)",
+            "padding": "0.4em  0.8em",
+            "borderRadius": "0.8em",
+            "textAlign": "center",
+            "lineHeight": "1.4",
+            "fontWeight": "600",
+            "fontFamily": "SF Pro Display, sans-serif",
+            "backdropFilter": "blur(0.75em)",
+            "border": "1px solid rgba(255, 255, 255, 0.1)",
+            "wordSpacing": "0.15em"
+        },
+        "animationClasses": {
+            "containerIn": "caption-instagram-story-in",
+            "containerOut": "caption-instagram-story-out",
+            "wordIn": "word-instagram-story"
+        },
+        "splitTextOptions": {
+            "activeWordStyles": {
+                "color": "#ff3366",
+                "fontWeight": "700",
+                "textShadow": "0 0 0.75em rgba(255, 51, 102, 0.7)",
+                "transform": "scale(1.08)"
+            },
+            "nextWordStyles": {
+                "color": "#ffaabb",
+                "opacity": 0.85
+            }
+        }
+    },
+    "createdBy": null,
+    "updatedBy": null,
+    "deletedBy": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "deletedAt": null,
+    "sortOrder": 3,
+    "enable": false
+}
