@@ -6,7 +6,7 @@ Build a high-performance Node.js backend that applies animated, CSS-styled capti
 
 ---
 
-## 📁 **Project Structure**
+## **Project Structure**
 
 ```
 /video-caption-renderer
